@@ -1,0 +1,36 @@
+/* Загальні стилі */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Стилі для заголовка */
+header {
+    background-color: #0073e6;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+/* Стилі для підзаголовка */
+.centered-subtitle {
+    text-align: center;
+    font-size: 1.8em;
+    color: #333;
+    margin: 30px 0;
+    padding: 10px;
+  
+    color: rgb(0, 0, 0);
+  
+}
+
+main {
+    padding: 20px;
+}
